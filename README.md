@@ -1,6 +1,6 @@
 # Simio BBQ Smoke Pit: Restaurant Simulation and Optimization
 
-**Simio Student Simulation Competition, December 2020.** Team **RITGreenSimio**, Rochester Institute of Technology. Our team was recognized as a semi-finalist (special mention).
+**Simio Student Simulation Competition, December 2020.** Team **RITGreenSimio**, Rochester Institute of Technology. Our team was recognized as a **semi-finalist**.
 
 **Team:** Sriparvathi Shaji Bhattathiri and Catherine Wright<br>
 **Course:** ISEE 610 (Simulation), RIT, Fall 2020, with Dr. Michael E. Kuhl
