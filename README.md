@@ -83,3 +83,9 @@ The Simio model file (`.spfx`) is kept in a private repository, because the comp
 ## Authors
 
 Sriparvathi Shaji Bhattathiri and Catherine Wright, Rochester Institute of Technology. Shared here with my teammate's permission.
+
+## License
+
+The write-up and figures in this repository are licensed under [CC BY-NC 4.0](LICENSE): you may share and adapt them for **noncommercial purposes**, including academic use, with attribution. The case problem and its data belong to Simio and are not covered.
+
+Copyright (c) 2020 Sriparvathi Shaji Bhattathiri
